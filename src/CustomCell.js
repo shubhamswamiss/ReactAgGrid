@@ -11,7 +11,7 @@ export function CustomCell(){
         { headerName: "Price", field: "price" },
         { headerName: "Action",field: "action",
           cellRenderer:(params)=><div>
-            <button>Click Me</button>
+            <button>Click me</button>
           </div>
         }
         
